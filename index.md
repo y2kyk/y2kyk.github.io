@@ -2,6 +2,9 @@
 
 HAYDEN HAYDEN HAYDEN 
 
+this is Alvin!!! This is Lucy.
+
+
 testing testing testing....
 
 You can use the [editor on GitHub](https://github.com/y2kyk/y2kyk.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -15,7 +18,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 THIS IS A HEADER
 ## Header 2
 ### Header 3
 
