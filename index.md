@@ -1,4 +1,9 @@
-## Welcome to AK's Home Page by GitHub Pages
+## Welcome to AK's Home Page
+
+
+> 🆕A huge site refresh is coming in 2024!🆕
+> 
+> Stay tuned for updates!
 
 ANDREW HAYDEN HAYDEN HAYDEN ANDREW ANDREW ANDREW
 
