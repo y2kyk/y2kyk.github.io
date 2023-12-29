@@ -1,9 +1,13 @@
 ## Welcome to AK's Home Page
 
 
+
+
 > 🆕A huge site refresh is coming in 2024!🆕
 > 
-> Stay tuned for updates!
+> Stay tuned for updates! Powered by [PixelVerseIT](https://pixelverse.tech)
+
+
 
 ANDREW HAYDEN HAYDEN HAYDEN ANDREW ANDREW ANDREW
 
